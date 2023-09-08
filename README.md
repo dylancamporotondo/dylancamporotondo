@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dylancamporotondo
 - 👀 I’m interested in Technology and electronics.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dylancamporotondo2@gmail.com
 
 <!---
